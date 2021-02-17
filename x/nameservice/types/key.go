@@ -13,3 +13,10 @@ const (
 	// QuerierRoute to be used for querier msgs
 	QuerierRoute = ModuleName
 )
+
+const (
+	// WhoisPrefix does stuff
+	WhoisPrefix = "whois-value-"
+	// WhoisCountPrefix does stuff
+	WhoisCountPrefix = "whois-count-"
+)
