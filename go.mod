@@ -1,4 +1,4 @@
-module github.com/starport/nameservice
+module github.com/ryandines/nameservice
 
 go 1.15
 
